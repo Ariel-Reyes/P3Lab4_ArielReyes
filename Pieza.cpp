@@ -9,9 +9,9 @@ Pieza::~Pieza() {
 char Pieza::tipo_pieza(bool deci_pieza){
 	char tipo; 
 	if(deci_pieza==true){
-		tipo = 'x'; 
+		tipo = 'X'; 
 	} else {
-		tipo = 'o'; 
+		tipo = 'O'; 
 	}	
 }
 

@@ -1,5 +1,5 @@
 #include "Damas.hpp"
-
+#include "Pieza.hpp"
 Damas::Damas() {
 }
 
@@ -26,3 +26,18 @@ Casilla*** Damas::crear_tablero() {
 
 };
 
+void Damas::llenar_tablero(Casilla*** tablero){
+	
+	
+	
+	
+	
+}
+
+bool Damas::movimiento_valido(int x , int y){
+	
+}
+
+void movimiento_valido(int x, int y){
+	
+}
